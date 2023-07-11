@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Bloody Mary",
+        "description": "Una bebida caracteristica por su color rojiso",
+        "price": 19.99,
+        "img": "assets/img/bloody.jpg"
+    },
+    {
+        "name": "Cafe Irlandez",
+        "description": "Una bebida caracteristica por su color rojiso",
+        "price": 19.99,
+        "img": "assets/img/cafe.jpg"
+    }
+]
