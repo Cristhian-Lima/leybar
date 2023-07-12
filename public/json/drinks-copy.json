@@ -1,0 +1,69 @@
+[
+
+    {
+        "name": "BlackBerry",
+        "description": "Una buena forma de recordar las sensaciones del verano en pleno invierno es dejándose llevar por un cóctel que nos traslada a la época estival. Lo hace gracias a sus traviesas burbujas y a través de su fresco aroma afrutado.",
+        "price": 15.99,
+        "img": "assets/img/blackberry.jpg"
+    },
+    {
+        "name": "Bloody Mary",
+        "description": "El Bloody Mary es uno de los cócteles más populares de todos los tiempos. No es seguro que fuera exactamente así, pero parece ser que fue un barman llamado Fernand Petiot, quien inventó este combinado en el Harry’s New York Bar de París en 1920",
+        "price": 19.99,
+        "img": "assets/img/bloody.jpg"
+    },
+    {
+        "name": "Cafe Irlandez",
+        "description": "Aunque asociamos los cócteles a bebidas frías, los hay también calientes, y muy populares. Sin duda, el más conocido es el café irlandés, un cóctel adulto pero accesible a todo tipo de consumidores, gracias a la equilibrada combinación de infusión amarga, whisky, azúcar y melosa nata.",
+        "price": 13.77,
+        "img": "assets/img/cafe.jpg"
+    },
+    {
+        "name": "Clericot",
+        "description": "33cl de vino blanco espumoso, 1 melocotón, 2 ciruelas,1 limón, 5ml de crema de Cassis y hielo",
+        "price": 10.49,
+        "img": "assets/img/clericot.jpg"
+    },
+    {
+        "name": "Cosmopolitan",
+        "description": "El Cosmopolitan nació a raíz de un concurso convocado por la revista del mismo nombre. Fue a mediados de la década de os 80 cuando, en el Julie´s Super Club de San Francisco, apareció por vez primera en una carta, y rápidamente se hizo un favorito de la cantante Madonna.",
+        "price": 15.99,
+        "img": "assets/img/cosmopolitan.jpg"
+    },
+    {
+        "name": "Mimosa de Frambuesa",
+        "description": "Una variación del clásico de los brunchs de moda sustituyendo el zumo de naranja por frambuesas. El cóctel mimosa de frambuesa es fresco, frutal, ligero y muy colorido, es además sencillísimo de preparar si tenemos frambuesas congeladas listas para usar.",
+        "price": 9.89,
+        "img": "assets/img/frutal.jpg"
+    },
+    {
+        "name": "Gimlet",
+        "description": "Aunque los orígenes del Gimlet no están del todo claros, algunos los sitúan en el año 1928 y hacen referencia a los carpinteros de la época. Estos, que bebían la mezcla de zumo de lima y ginebra, habrían bautizado al cóctel con el nombre de barrena (gimlet en inglés) debido a la intensidad de la bebida.",
+        "price": 25.8,
+        "img": "assets/img/gimlet.jpg"
+    },
+    {
+        "name": "Mojito",
+        "description": "El mojito cubano es un cóctel dulce y refrescante, gracias a la acidez de la lima y el aroma de la hierbabuena. Un clásico que gusta a todo el mundo y, aunque es muy veraniego, todos agradecerán para celebrar la llegada del año nuevo.",
+        "price": 10,
+        "img": "assets/img/mojito.jpg"
+    },
+    {
+        "name": "Singapure sling",
+        "description": "Este cóctel de ginebra, para los amantes de los sabores más dulces, fue inventado a principios del siglo XX en Singapur por el barman de origen chino Ngiam Tom Boon. Se caracteriza por ser muy refrescante.",
+        "price": 17.9,
+        "img": "assets/img/singapure.jpg"
+    },
+    {
+        "name": "Tequila Sunrise",
+        "description": "El Tequila Sunrise es un cóctel alegre y colorido, es suave a la par que delicioso. Su nombre, que traducido significa amanecer de tequila, hace referencia a que al servirse en un vaso, los ingredientes de mayor densidad se van a hacia el fondo, dejando una gradación de colores muy parecida a la de un amanecer.",
+        "price": 29.99,
+        "img": "assets/img/sunrise.jpg"
+    },
+    {
+        "name": "Vieux",
+        "description": "Este cóctel clásico, pero poco conocido, tiene carácter y bastante contenido alcohólico (pues se elabora mezclando solo licores). Tiene puntos amargos y dulces, pero muy balanceados por lo que, pese a su elevada graduación, es muy sutil para beber. Así que cuidado con repetir",
+        "price": 20,
+        "img": "assets/img/vieux.jpg"
+    }
+]
