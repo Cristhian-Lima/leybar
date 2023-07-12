@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leybar/static/css/main.4501e8f8.css",
+    "main.js": "/leybar/static/js/main.460c5a3e.js",
+    "static/media/JejuHallasan-Regular.ttf": "/leybar/static/media/JejuHallasan-Regular.a8978ba4715142988e29.ttf",
+    "static/media/bg.jpeg": "/leybar/static/media/bg.f8dbeef23e73da106b8c.jpeg",
+    "static/media/madera.png": "/leybar/static/media/madera.2cd09a63dce83687479c.png",
+    "index.html": "/leybar/index.html",
+    "main.4501e8f8.css.map": "/leybar/static/css/main.4501e8f8.css.map",
+    "main.460c5a3e.js.map": "/leybar/static/js/main.460c5a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4501e8f8.css",
+    "static/js/main.460c5a3e.js"
+  ]
+}
