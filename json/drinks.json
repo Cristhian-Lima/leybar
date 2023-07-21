@@ -1,69 +1,26 @@
 [
-
     {
-        "name": "BlackBerry",
+        "name": "Pampaku",
         "description": "",
         "price": 15.99,
-        "img": "assets/img/blackberry.jpg"
+        "img": "assets/img/pampaku.png"
     },
     {
-        "name": "Bloody Mary",
+        "name": "Plato paceño",
         "description": "",
         "price": 19.99,
-        "img": "assets/img/bloody.jpg"
+        "img": "assets/img/pace.png"
     },
     {
-        "name": "Cafe Irlandez",
+        "name": "Picante de gallina",
         "description": "",
         "price": 13.77,
-        "img": "assets/img/cafe.jpg"
+        "img": "assets/img/picante.png"
     },
     {
-        "name": "Clericot",
-        "description": "33cl de vino blanco espumoso, 1 melocotón, 2 ciruelas,1 limón, 5ml de crema de Cassis y hielo",
+        "name": "Mocochinchi",
+        "description": "",
         "price": 10.49,
-        "img": "assets/img/clericot.jpg"
-    },
-    {
-        "name": "Cosmopolitan",
-        "description": "",
-        "price": 15.99,
-        "img": "assets/img/cosmopolitan.jpg"
-    },
-    {
-        "name": "Mimosa de Frambuesa",
-        "description": "",
-        "price": 9.89,
-        "img": "assets/img/frutal.jpg"
-    },
-    {
-        "name": "Gimlet",
-        "description": "",
-        "price": 25.8,
-        "img": "assets/img/gimlet.jpg"
-    },
-    {
-        "name": "Mojito",
-        "description": "",
-        "price": 10,
-        "img": "assets/img/mojito.jpg"
-    },
-    {
-        "name": "Singapure sling",
-        "description": "",
-        "price": 17.9,
-        "img": "assets/img/singapure.jpg"
-    },
-    {
-        "name": "Tequila Sunrise",
-        "description": "",
-        "price": 29.99,
-        "img": "assets/img/sunrise.jpg"
-    },
-    {
-        "name": "Vieux",
-        "description": "",
-        "price": 20,
-        "img": "assets/img/vieux.jpg"
+        "img": "assets/img/mocochinchi.jpg"
     }
 ]
